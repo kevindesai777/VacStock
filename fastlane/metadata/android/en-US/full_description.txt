@@ -1,0 +1,16 @@
+VacStock keeps count of the vaccine doses on your clinic's shelf. Each vaccine is a row with a − button, the number of doses left, and a + button. Give a dose, tap −. Stock arrives, tap +.
+
+• One screen, nothing to dig through
+• Tap + or − as doses come and go
+• New box? Tap the vaccine's name and type the exact count
+• Vaccines that run out are marked "Out of stock" in red
+• Add any vaccine with the + at the top, so the list fits any brand or country's schedule
+• Rename or remove vaccines whenever you like
+• Swipe a row left to reveal Delete. Nothing is removed until you tap it
+• See how many vaccines and total doses you have at a glance
+• Light and dark theme
+
+Private and offline
+VacStock works without internet. There's no account, no ads and no tracking. Your list stays on your phone and is included in your normal Android backup, so it can come back when you switch phones.
+
+Made for clinics and doctors' offices. VacStock tracks stock counts only. It doesn't store patient information or give medical advice.

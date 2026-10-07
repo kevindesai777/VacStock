@@ -26,3 +26,13 @@ Create an upload key and a `keystore.properties` file (see `keystore.properties.
 ```bash
 ./gradlew :app:bundleRelease        # app/build/outputs/bundle/release/app-release.aab
 ```
+
+## Privacy
+
+VacStock has no internet permission, accounts, ads or analytics. See [PRIVACY.md](PRIVACY.md).
+
+## Store listing
+
+Play Store text and graphics live in `fastlane/metadata/android/en-US/` (the layout fastlane
+`supply` and F-Droid read): title, short and full description, release notes per versionCode,
+a 512×512 icon, a 1024×500 feature graphic and phone screenshots.
