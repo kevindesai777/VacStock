@@ -1,0 +1,4 @@
+<resources>
+    <!-- Matches the Compose surface color so launch never flashes white. -->
+    <color name="window_background">#FFF8F5</color>
+</resources>
